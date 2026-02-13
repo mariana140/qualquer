@@ -1,1 +1,17 @@
-# qualquer
+# O GitHub é a maior plataforma de hospedagem de código-fonte e desenvolvimento colaborativo do mundo, baseada na nuvem. Ele utiliza o sistema Git para controle de versão, permitindo que desenvolvedores armazenem, gerenciem e compartilhem projetos, além de colaborar com outras pessoas em tempo real. 
+
+O GitLab é uma plataforma completa de DevSecOps baseada na web que permite às equipes planejar, construir, proteger e implantar softwares em um único local. Ele evoluiu de um repositório Git para oferecer ferramentas integradas de CI/CD (integração e entrega contínuas), gerenciamento de projetos, revisão de código e monitoramento. 
+
+Bitbucket é uma plataforma de hospedagem de repositórios de código-fonte baseada em Git (e Mercurial) da Atlassian, projetada para equipes colaborarem no desenvolvimento de software, oferecendo controle de versão, revisão de código, testes automatizados e integração com ferramentas como Jira e Trello para um fluxo de trabalho completo de planejamento à implantação (CI/CD). Ele permite armazenar, gerenciar e compartilhar código de forma segura, tanto na nuvem (Bitbucket Cloud) quanto em servidores próprios (Data Center). 
+
+Compartilhamento de projetos é o ato de distribuir e sincronizar arquivos, dados e o progresso de um projeto entre membros de uma equipe ou outros usuários, usando ferramentas online ou redes, para permitir colaboração, acesso remoto e trabalho simultâneo, aumentando a eficiência e o conhecimento coletivo na criação, edição e finalização de um trabalho, seja em softwares específicos ou serviços de nuvem. 
+
+A hospedagem de código é um serviço de arquivamento e armazenamento online que permite a desenvolvedores e equipes gerenciar, compartilhar e colaborar no código-fonte de software e outros arquivos relacionados. Ela funciona como um repositório remoto onde todos os arquivos do projeto ficam armazenados e acessíveis via internet. 
+
+Ferramentas para revisão de código são softwares que automatizam e facilitam a análise do código-fonte, buscando bugs, falhas de segurança, má qualidade e não conformidade com padrões, com exemplos como SonarQube (análise estática), GitLab/Gerrit (colaboração) e Qodo (IA), ajudando equipes a entregar software mais rápido e confiável, complementando o olhar humano com eficiência. 
+
+Gestão de projetos é a aplicação de conhecimentos para planejar, executar e finalizar um objetivo específico, enquanto a colaboração é a prática de equipes trabalharem juntas, compartilhando informações e responsabilidades para alcançar esse objetivo de forma mais eficiente e inovadora, resultando em maior engajamento e qualidade. A gestão de projetos organiza o "como" e o "quando", usando ferramentas para centralizar tarefas, e a colaboração foca no "quem" e no "juntos", descentralizando decisões e promovendo a troca de ideias entre todos os envolvidos, desde a concepção até a entrega. 
+
+Pull request (PR) é uma solicitação feita por desenvolvedores para mesclar (merge) alterações de código de uma ramificação (branch) para o repositório principal, geralmente no GitHub ou GitLab. Funciona como uma revisão colaborativa, permitindo que a equipe analise, comente e aprove as mudanças antes da integração final, garantindo a qualidade do software. 
+
+Issue tracking é o processo de registrar, acompanhar e gerenciar o progresso de problemas, bugs, tarefas ou solicitações (coletivamente chamados de "issues") do início à resolução. Isso é feito através de um sistema de rastreamento de problemas (ITS, do inglês Issue Tracking System), que funciona como um pacote de software para gerenciar essas listas de itens. 
